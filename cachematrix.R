@@ -5,8 +5,8 @@
 ##The first function, makeVector would perform the following tasks:
 #set the value of the vector
 #get the value of the vector
-#set the value of the mean
-#get the value of the mean
+#set the value of the inverse
+#get the value of the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
   inverse_kd <- NULL
